@@ -44,7 +44,10 @@ research activities.
 1. The Association's purpose is the promotion and distribution of software
    defined radio software in terms of free software, and the software "GNU Radio"
    in particular, to promote the free exchange of knowledge and equality of
-   opportunity in accessing software as well as education, science and research.
+   opportunity in accessing software as well as education, science and research,
+   and to build and grow a community which in turn fosters the development of
+   new ideas, promotes the expansion of knowledge, and supports the ever growing
+   network of projects relying on Software Defined Radio.
 2. The aim of the articles of association is to promote
    a. education, exchange of opinions and cooperation between users, developers
       and researchers
@@ -58,9 +61,6 @@ research activities.
       conferences, making information available to a broad spectrum of users
    f. organisation of conferences and lectures open to the general public, which
       aim at promoting further training of project members and users
-   g. protection of the project members' free rights protecting them from the
-      commercial interests of third parties
-
 
 ## 3. Type of Association
 
@@ -248,7 +248,6 @@ In case of a dissolution or liquidation of the association all its assets will
 become property of the SETI Institute, which has to use them exclusively and
 directly for non-for-profit purposes only according the aims of this articles.
 
-
 ## 12. Code of Conduct and CARE Team
 
 The GNU Radio Organization follows a Code of Conduct (CoC) which is tracked in a
@@ -262,7 +261,6 @@ Organization.
 
 In addition, a CoC team is appointed by the board. Its job is to act upon CoC
 violations, and suggest courses of action to the board.
-
 
 ## 13. Inception of the Articles of Association
 
