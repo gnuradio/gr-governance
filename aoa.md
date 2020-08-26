@@ -5,19 +5,18 @@ Version: 0.1-alpha
 ## Clarification of Terminology
 
 * Under these Articles of Association we consider computer programs as free
-  software, or "open source software", which the originator puts into the public
-  domain free of charge and in an irretrievable manner. In doing so, the
-  originator allows others the freedom to use the program for any purpose, to
+  software, or "open source software", which the originator makes available under 
+  an Open Source Initiative (OSI) approved license. In doing so, the
+  originator gives others the freedom to use the program for any purpose, to
   study how the program functions, to adapt it to his/her own needs, to copy it
   for others and to improve the program and make these changes available for the
   common good.
 * Developing free software in the sense of these Articles of Association consists
-  of research and compilation of basic principles and concepts as well as their
-  test by programming and test of free software which implement such concepts
-  and basic principles.
-* "Software Defined Radio", or "SDR" for short, refers to the technology of
-  building wireless or digital signal processing applications using software or
-  programmable logic.
+  of research and compilation of basic principles and concepts as well as 
+  implementation of such concepts and basic principles.
+* "Software Defined Radio", "Software Radio", or "SDR" for short, refers to the 
+  technology of building wireless or digital signal processing applications using 
+  software or programmable logic.
 * A "real-time" event is an event in which all participants are participating
   synchronously. Examples for real-time events include in-person meetings, or
   online meetings where all participants are connected via voice-over-IP
@@ -88,15 +87,10 @@ the SETI Institute.
 3. The membership terminates due to exit, expulsion, or death of the member.
    Membership may be terminated at any time by the member in writing to the board.
 4. The Board may decide to expel members. The expulsion of a member is reserved
-   for critical situations, and generally it will be considered preferable to
-   find a peaceful solution.
-   The following
-   reasons may cause an expulsion:
+   for critical situations. The following reasons may cause an expulsion:
    * if a member violates regulations contained in any one of:
      * the Articles of Association,
-     * the purpose and aim of the Association, or
      * the Code of Conduct
-     and an attempt to clarify the situation was unsuccessful.
    After the Board has decided to expel a member and has informed them about the
    decision, the member must have the opportunity to justify or explain their
    actions. An objection to such an expulsion may be filed with the Board within
