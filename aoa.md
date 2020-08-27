@@ -80,7 +80,7 @@ the SETI Institute.
    * the general assembly decides to grant it or if a simple majority of the
      active members is obtained by means of an internet vote.
    The main criterion for granting membership should be the candidate's commitment
-   over a longer period of time and the contributions they made in order to fulfil
+   over a longer period of time and the contributions they made in order to fulfill
    the Association's aims, as well as their commitment to uphold the Association's
    code of conduct.
    Participation in the GNU Radio Organization is not limited to active members,
@@ -256,7 +256,7 @@ separate document.
 It is the matter of the board and all active members to uphold the code of
 conduct on all occasions related to the GNU Radio Organization, including, but
 not limited to, exchanges on the public GNU Radio mailing list and chat servers,
-, the GNU Radio Conference, and hackfests organized by the GNU Radio
+the GNU Radio Conference, and hackfests organized by the GNU Radio
 Organization.
 
 In addition, a CoC team is appointed by the board. Its job is to act upon CoC
