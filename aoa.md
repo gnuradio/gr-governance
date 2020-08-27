@@ -248,7 +248,7 @@ In case of a dissolution or liquidation of the association all its assets will
 become property of the SETI Institute, which has to use them exclusively and
 directly for non-for-profit purposes only according the aims of this articles.
 
-## 12. Code of Conduct and CARE Team
+## 12. Code of Conduct and CoC team
 
 The GNU Radio Organization follows a Code of Conduct (CoC) which is tracked in a
 separate document.
