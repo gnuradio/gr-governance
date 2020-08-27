@@ -33,7 +33,7 @@ Version: 0.1-alpha
 The terms "GNU Radio" and "GNU Radio Project" are colloquially often used to
 refer to both the GNU Radio software as well as the organization itself. For
 the remainder of this document, we use "GNU Radio" to refer to the codebase of
-GNU Radio and all related artefacts, such as git repositories, out-of-tree
+GNU Radio and all related artifacts, such as git repositories, out-of-tree
 modules administered by the GNU Radio Organization, graphics, logos, and
 documents. The "GNU Radio Association", or simply "the Association" shall refer
 to the group of people and their activities, such as GRCon, hackfests or
@@ -59,7 +59,7 @@ research activities.
    e. contributions and articles providing competent information to the public
       within the association's field of activity and presence at trade fares and
       conferences, making information available to a broad spectrum of users
-   f. organisation of conferences and lectures open to the general public, which
+   f. organization of conferences and lectures open to the general public, which
       aim at promoting further training of project members and users
 
 ## 3. Type of Association
@@ -80,7 +80,7 @@ the SETI Institute.
    * the general assembly decides to grant it or if a simple majority of the
      active members is obtained by means of an internet vote.
    The main criterion for granting membership should be the candidate's commitment
-   over a longer period of time and the contributions they made in order to fulfil
+   over a longer period of time and the contributions they made in order to fulfill
    the Association's aims, as well as their commitment to uphold the Association's
    code of conduct.
    Participation in the GNU Radio Organization is not limited to active members,
@@ -149,16 +149,16 @@ The organs of the Association are:
    a quorum if the invitation was submitted in proper form. It nominates one of
    the members present as head of the General Assembly. Unless otherwise decided
    by the General Assembly, all decisions will be taken openly by show of hands
-   and with a simple majority. Should the number of pro and contra votes should
-   be equal, the application is considered as dismissed.
+   and with a simple majority. Should the number of votes for and against it
+   should be equal, the application is considered as dismissed.
 5. Differing from (4), a majority of ¾ of the votes of the General Assembly and a
    minimum of half of the votes of all active members are necessary to amend or
    change the Articles of Association or decide the liquidation of the Association.
 6. An active member who cannot personally participate in the General Assembly may
    ask another member, who will be personally present, to represent him during the
    General Assembly. The representative will exercise both members’ voting rights.
-   The representative will legitimise himself at the beginning of the General
-   Assembly by presenting to the Board the original of a written authorisation.
+   The representative will legitimize himself at the beginning of the General
+   Assembly by presenting to the Board the original of a written authorization.
    1. A representative may represent a maximum of two additional members.
 7. The General Assembly may occur asynchronously for certain purposes. An
    asynchronous General Assembly requires that all members are informed of the
@@ -256,7 +256,7 @@ separate document.
 It is the matter of the board and all active members to uphold the code of
 conduct on all occasions related to the GNU Radio Organization, including, but
 not limited to, exchanges on the public GNU Radio mailing list and chat servers,
-, the GNU Radio Conference, and hackfests organized by the GNU Radio
+the GNU Radio Conference, and hackfests organized by the GNU Radio
 Organization.
 
 In addition, a CoC team is appointed by the board. Its job is to act upon CoC
