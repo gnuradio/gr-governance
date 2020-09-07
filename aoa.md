@@ -34,7 +34,7 @@ refer to both the GNU Radio software as well as the organization itself. For
 the remainder of this document, we use "GNU Radio" to refer to the codebase of
 GNU Radio and all related artifacts, such as git repositories, out-of-tree
 modules administered by the GNU Radio Organization, graphics, logos, and
-documents. The "GNU Radio Association", or simply "the Association" shall refer
+documents. The "GNU Radio Organization", or simply "the Association" shall refer
 to the group of people and their activities, such as GRCon, hackfests or
 research activities.
 
@@ -63,7 +63,7 @@ research activities.
 
 ## 3. Type of Association
 
-The GNU Radio Association is organized as a sub-project under the umbrella of
+The GNU Radio Organization is organized as a sub-project under the umbrella of
 the SETI Institute.
 
 ## 4. Organs of the Association
