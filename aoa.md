@@ -85,9 +85,10 @@ the SETI Institute.
    Participation in the GNU Radio Organization is not limited to active members,
    and in fact is encouraged for non-members.
 3. The membership terminates due to exit, expulsion, or death of the member.
-   Membership may be terminated at any time by the member in writing to the board.
-4. The Board may decide to expel members. The expulsion of a member is reserved
-   for critical situations. The following reasons may cause an expulsion:
+   Membership may be terminated at any time by the member in writing to the Board.
+4. The Board (see Section 8) may decide to expel members. The expulsion of a
+   member is reserved for critical situations. The following reasons may cause
+   an expulsion:
    * if a member violates regulations contained in any one of:
      * the Articles of Association,
      * the Code of Conduct
