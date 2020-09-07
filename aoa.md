@@ -168,8 +168,8 @@ assigned specific duties to another organ of the Association.
 
 1. The General Assembly elects the board from a number of active members. The
    people obtaining the largest numbers of votes will be elected.
-2. The General Assembly may deselect a board member. Differing from (1), this
-   process requires the majority of votes of all active members.
+2. The General Assembly may remove a member from the Board. Differing from (1),
+   this process requires a two-thirds majority of votes.
 3. The General Assembly decides about the objections of members the Board intends
    to expel.
 4. The General Assembly receives the Board’s annual report and discharges the
@@ -185,7 +185,7 @@ assigned specific duties to another organ of the Association.
 8. It has the right to decide about all matters board or members submit to it.
 9. The following items can only be decided in a real-time General Assembly as
    organized according to §6 (2):
-   * Board Elections
+   * Board Elections and removal of board members
    * Membership / Expulsion disputes
    * Changes to the Articles of Association or Code of Conduct
 
