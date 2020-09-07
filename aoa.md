@@ -66,7 +66,14 @@ research activities.
 The GNU Radio Association is organized as a sub-project under the umbrella of
 the SETI Institute.
 
-## 4. Types of Membership and Members of the Association
+## 4. Organs of the Association
+
+The organs of the Association are:
+
+* the General Assembly (cf. Section 6) and
+* the Board (cf. Section 8).
+
+## 5. Types of Membership and Members of the Association
 
 1. Active Members are natural persons supporting the Association's purpose and
    aims through their cooperation and who in doing so take over the complete
@@ -86,9 +93,8 @@ the SETI Institute.
    and in fact is encouraged for non-members.
 3. The membership terminates due to exit, expulsion, or death of the member.
    Membership may be terminated at any time by the member in writing to the Board.
-4. The Board (see Section 8) may decide to expel members. The expulsion of a
-   member is reserved for critical situations. The following reasons may cause
-   an expulsion:
+4. The Board may decide to expel members. The expulsion of a member is reserved
+   for critical situations. The following reasons may cause an expulsion:
    * if a member violates regulations contained in any one of:
      * the Articles of Association,
      * the Code of Conduct
@@ -111,14 +117,6 @@ procedures laid out in the voting procedure by-laws.
 In particular, it is the intent of the GNU Radio Organization to include other
 types of memberships, such as "supporting" or "passive" members, and to allow
 legal persons to become members, without voting rights.
-
-
-## 5. Organs of the Association
-
-The organs of the Association are:
-
-* the General Assembly and
-* the Board.
 
 ## 6. General Assembly
 
@@ -193,11 +191,11 @@ assigned specific duties to another organ of the Association.
 
 ## 8. The Board
 
-1. The Board consists of 3 persons, and only natural persons can be board
-   members. They are elected for a 2 years term. Re-election is permitted. The
-   respective board members remain in office after expiration of their term
-   until a successor is elected.
-2. From its midst the Board elects a president and two proxies
+1. The Board consists of 3 persons, and only natural persons who are active
+   members can be board members. They are elected for a 2-year term. Re-election
+   is permitted. The respective board members remain in office after expiration
+   of their term until a successor is elected.
+2. From its midst the Board elects a president and two proxies.
    Re-election is permitted.
 3. The Board's duties, namely all regulations pertaining to calling for board
    meetings, meeting procedures and voting process are stipulated in the by-laws
