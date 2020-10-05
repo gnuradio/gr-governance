@@ -145,41 +145,10 @@ according to section 3.4.
 
 #### 3.4.1 Multiple options
 
-If there are more than two options (excluding abstention), the following voting
-system shall be used:
-
-The members are asked to rank the options in terms of their preference into a
-ballot. A ballot may contain two options of the same rank. All options must be
-ranked. Each member may make up to one ballot.
-
-The winners are found by:
-
-i.   Given two options A and B, V(A,B) is the number of voters who prefer option A over option B.
-ii.  From the list of options, we generate a list of pairwise defeats.
-  * An option A defeats an option B, if V(A,B) is strictly greater than V(B,A).
-iii. From the list of pairwise defeats, we generate a set of transitive defeats.
-  * An option A transitively defeats an option C if A defeats C or if there is
-    some other option B where A defeats B AND B transitively defeats C.
-iv. We construct the Schwartz set from the set of transitive defeats.
-  * An option A is in the Schwartz set if for all options B, either A
-    transitively defeats B, or B does not transitively defeat A.
-v. If there are defeats between options in the Schwartz set, we drop the
-    weakest such defeats from the list of pairwise defeats, and return to
-    step (iii).
-  * A defeat (A,X) is weaker than a defeat (B,Y) if V(A,X) is less than V(B,Y).
-    Also, (A,X) is weaker than (B,Y) if V(A,X) is equal to V(B,Y) and V(X,A) is
-    greater than V(Y,B).
-  * A weakest defeat is a defeat that has no other defeat weaker than it. There
-    may be more than one such defeat.
-vi. If the number of options in the Schwartz set does not exceed the number of
-    required winners, then the winners are the Schwartz set. If the number of
-    members of the Schwartz set exceeds the number of required winners, the
-    board chooses which of the members of the Schwartz set wins.
-vii. If this results in an insufficient number of winners, then the candidates
-     which have already won according to step (vi) should be removed from the
-     list of options, and then this procedure is repeated from step (i).
-
-Parts of this section are copied from the Constitution for the Debian Project (v1.4), http://www.debian.org/devel/constitution
+If there are more than two options (excluding abstention), the meeting
+facilitator (or leader of the vote) shall suggest a meeting procedure. It must
+be ensured that all votes count, and that voting for an item cannot count against
+it.
 
 #### 3.4.2 Two options
 
