@@ -26,6 +26,8 @@ Version: 0.1-alpha
   asynchronous events include email chains, online polls, or internet votes.
 * An "internet vote" is a mechanism for holding votes (or possibly elections)
   online without requiring physical presence of members.
+* "Represent" means to speak, act, or be present officially for the GNU Radio
+  Organization.
 
 ## 1. Name of the Organization
 
@@ -204,7 +206,8 @@ assigned specific duties to another organ of the Association.
    decision of the General Assembly is required. It implements the decisions
    taken by the General Assembly.
 5. Each individual board member has the right to represent the Association to
-   outside parties.
+   outside parties. This does not preclude the other members of the General
+   Assembly from representing the project for non-contractual purposes.
 6. Should a board member quit while in office, the board appoints a provisional
    board member on the basis of an internet vote in which all active members
    participate. The provisional board member remains in office until the General
@@ -258,5 +261,5 @@ violations, and suggest courses of action to the board.
 ## 13. Inception of the Articles of Association
 
 These Articles of Association came into effect following a decision by the
-General Assembly on $DATE.
+General Assembly on 8-Oct-2020.
 
