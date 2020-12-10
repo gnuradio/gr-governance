@@ -1,7 +1,6 @@
 # Rules of Procedures for Online Voting
 
-
-Version: 0.1-alpha
+Version: 1.0
 
 The articles of association of GNU Radio Organization provide that certain
 decisions can be taken by online voting. This includes voting about new members
@@ -196,4 +195,4 @@ the GNU Radio membership if good reason for the change, as determined by the
 good judgment of the board, is provided.
 
 
-These rules have been decided by... at ...
+These rules have been decided by the GNU Radio assembly on 8-Oct-2020.
