@@ -1,8 +1,5 @@
 # Contributor Covenant Code of Conduct
 
-This Code of Conduct is also available [here on the GNU Radio
-wiki](https://wiki.gnuradio.org/index.php/Code_of_Conduct).
-
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
