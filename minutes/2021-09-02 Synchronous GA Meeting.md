@@ -22,7 +22,7 @@ Josh Morman
   - This is an open discussion. Feedback is particularly welcome!
 2. Elections of the new Board.
   - Elections are handled by our MCs, Barry and Josh.
-  - Currently, Derek, Marc, and myself have decided to run for re-election.
+  - Currently, Derek, Marc, and Martin have decided to run for re-election.
   - This time, it's the full 2-year term.
 3. Election of Jacob Gilbert as GA Member
 
