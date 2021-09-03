@@ -42,4 +42,5 @@ Results: Martin Braun, Derek Kozel, and Marc Lichtman unanimously re-elected to 
 
 ## Election of Jacob Gilbert to the GA
 
-Results: 12-0 in favor of inviting to GA 
+Results: 12-0 in favor of inviting to GA
+    [Note: Due to technical issues, one of our attendees could not participate in this vote].
