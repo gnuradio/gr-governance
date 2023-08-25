@@ -1,6 +1,6 @@
 # Articles of Association
 
-Version: 0.1-alpha
+Version: 1.0
 
 ## Clarification of Terminology
 
